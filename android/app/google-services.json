@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "20544683406",
+    "project_id": "darketapp",
+    "storage_bucket": "darketapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20544683406:android:6a46bad998e426dba7b8df",
+        "android_client_info": {
+          "package_name": "com.example.darket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmtpGAA9_7nQ8HNuyF0IexHjvqixS7J0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
